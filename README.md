@@ -43,9 +43,9 @@
 ##  Projekte
 
 ###  Impftermin-Buchungssystem
-> Java-Webanwendung zur Verwaltung von Impfterminen mit SQL-Datenbank und simulierter E-Mail-Verifizierung.
+> Java-Webanwendung zur Buchung von Impfterminen mit MariaDB, Redis Session-Management und E-Mail-Versand.
 
-`Java` `SQL` `HTML/CSS` `SMTP`
+`Java` `Jakarta EE` `MariaDB` `Redis` `SMTP` `Docker` `Tomcat`
 
 ---
 
@@ -57,7 +57,8 @@
 ---
 
 ###  Afroshop – E-Commerce-Website
-> Frontend einer E-Commerce-Plattform für afrikanische Produkte.
+> E-Commerce-Frontend mit Warenkorb, Bestellverwaltung via localStorage und Login-System.
+> 🌐 [Live-Demo](https://emeric99.github.io/Afroshop/)
 
 `HTML` `CSS` `JavaScript`
 
