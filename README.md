@@ -67,8 +67,8 @@
 ##  GitHub-Statistiken
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emeric99&show_icons=true&theme=default&hide_border=true&locale=de" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emeric99&layout=compact&theme=default&hide_border=true&locale=de" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emeric99&show_icons=true&theme=default&hide_border=true&locale=de&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emeric99&layout=compact&theme=default&hide_border=true&locale=de&cache_seconds=1800" height="150"/>
 </p>
 
 ---
