@@ -72,4 +72,3 @@
 
 ---
 
-<p align="center"><i>„Erst denken, dann coden."</i></p>
