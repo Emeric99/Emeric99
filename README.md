@@ -62,8 +62,6 @@
 
 `HTML` `CSS` `JavaScript`
 
----
-
 
 ---
 
