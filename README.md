@@ -64,12 +64,6 @@
 
 ---
 
-##  GitHub-Statistiken
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emeric99&hide_border=true&locale=de" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emeric99&theme=default" height="150"/>
-</p>
 
 ---
 
