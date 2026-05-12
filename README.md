@@ -10,7 +10,7 @@
 
 ##  Über mich
 
--  4 . Semester Informatik an der **Hochschule Bremerhaven**
+-  6 . Semester Informatik an der **Hochschule Bremerhaven**
 -  Schwerpunkte: **Software Entwicklung** & **Künstliche Intelligenz**
 -  Ich baue gerne Webapplikationen, automatisiere Prozesse und arbeite mit Datenbanken
 -  Selbstgesteuertes Lernen über **DataCamp** & **LinkedIn Learning**
