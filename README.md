@@ -51,6 +51,7 @@
 
 ###  Wetterdienst Pro
 > Java REST API mit Wetterabfrage, 3-Tage-Vorhersage, KI-Chatbot und Musikempfehlungen.
+🌐 [Live-Demo](https://tcho.vn-nspace.de/wetterdienst/weather.html)
 
 `Java` `Jakarta EE` `REST API` `OpenWeatherMap` `Bootstrap 5` `Docker`
 ---
