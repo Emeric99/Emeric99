@@ -49,11 +49,10 @@
 
 ---
 
-###  Dockerisierte Microservice-Umgebung
-> Multi-Container-Setup mit Apache Tomcat und MariaDB – vollständig konfiguriert und dokumentiert.
+###  Wetterdienst Pro
+> Java REST API mit Wetterabfrage, 3-Tage-Vorhersage, KI-Chatbot und Musikempfehlungen.
 
-`Docker` `Tomcat` `MariaDB` `Networking`
-
+`Java` `Jakarta EE` `REST API` `OpenWeatherMap` `Bootstrap 5` `Docker`
 ---
 
 ###  Afroshop – E-Commerce-Website
