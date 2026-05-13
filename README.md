@@ -54,6 +54,7 @@
 🌐 [Live-Demo](https://tcho.vn-nspace.de/wetterdienst/weather.html)
 
 `Java` `Jakarta EE` `REST API` `OpenWeatherMap` `Bootstrap 5` `Docker`
+
 ---
 
 ###  Afroshop – E-Commerce-Website
