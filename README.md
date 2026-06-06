@@ -28,6 +28,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Tools & Technologien**
 
@@ -37,6 +39,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![GNU Make](https://img.shields.io/badge/Make-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -56,6 +62,11 @@
 `Java` `Jakarta EE` `REST API` `OpenWeatherMap` `Bootstrap 5` `Docker`
 
 ---
+
+###  AVR Morse System
+> Eingebettetes System zur Morse-Kodierung und -Dekodierung in C für AVR-Mikrocontroller. Modulare Architektur mit State Machine, UART-Ringpuffer und Unit-Tests.
+
+`C` `AVR` `Embedded` `State Machine` `UART` `simavr` `GNU Make`
 
 ###  Afroshop – E-Commerce-Website
 > E-Commerce-Frontend mit Warenkorb, Bestellverwaltung via localStorage und Login-System.
